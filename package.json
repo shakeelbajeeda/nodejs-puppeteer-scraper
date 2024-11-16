@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-scrape-google-search-results",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shakeelbajeeda@gmail.com",
+  "license": "ISC",
+  "description": "nodejs api with puppeteer for scraping 10 query result titles",
+  "dependencies": {
+    "express": "^4.21.1",
+    "puppeteer": "^23.8.0"
+  }
+}
